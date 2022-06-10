@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AssisRaphael&show_icons=true&theme=tokyonight)
+I'm a Computer Engineering student and I'm currently interested in learning the fundamentals of IT, ranging from infrastructure to development.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AssisRaphael&layout=compact&langs_count=8)
+<div align="center">
+  <a href="https://github.com/pmartinsesa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AssisRaphael&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AssisRaphael&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
 ### Contact
 
